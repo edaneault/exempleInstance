@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="208.95932mm"
+   height="85.038467mm"
+   viewBox="0 0 208.95933 85.038469"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="schema-bloc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3729423"
+     inkscape:cx="363.81718"
+     inkscape:cy="145.67255"
+     inkscape:window-width="3840"
+     inkscape:window-height="2091"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false"
+     inkscape:pageshadow="2"
+     fit-margin-top="3"
+     lock-margins="true"
+     fit-margin-left="3"
+     fit-margin-right="3"
+     fit-margin-bottom="3">
+    <inkscape:grid
+       type="xygrid"
+       id="grid27292"
+       originx="13.221215"
+       originy="1.1028099" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606599"
+       markerHeight="6.7071061"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606599"
+       markerHeight="6.7071061"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057-7"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606599"
+       markerHeight="6.7071061"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057-6"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606599"
+       markerHeight="6.7071061"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057-1"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1-1-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606599"
+       markerHeight="6.7071061"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057-7-4"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(16.383108,-23.37504)">
+    <g
+       id="g1576"
+       transform="translate(8.7770412,3.730558)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-width:0.38013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect111"
+         width="22.746605"
+         height="8.6417656"
+         x="46.066212"
+         y="54.050079" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="48.101326"
+         y="59.249203"
+         id="text167"><tspan
+           sodipodi:role="line"
+           id="tspan165"
+           style="stroke-width:0.264583"
+           x="48.101326"
+           y="59.249203">Beaglebone</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.333425;stroke-dasharray:none;marker-start:url(#Arrow1);marker-end:url(#Arrow1)"
+       d="m 78.07581,62.10152 h 19.0179"
+       id="path1818"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.333425;stroke-dasharray:0.666849, 0.333425;stroke-dashoffset:0;marker-end:url(#Arrow1-1)"
+       d="m 125.82946,62.101522 h 29.89223"
+       id="path1818-2"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g1576-8"
+       transform="translate(51.510824,3.730558)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.38013;stroke-dasharray:none"
+         id="rect111-8"
+         width="28.737734"
+         height="8.6006355"
+         x="46.086777"
+         y="54.070644" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="48.197475"
+         y="59.56081"
+         id="text167-9"><tspan
+           sodipodi:role="line"
+           id="tspan165-5"
+           style="stroke-width:0.264583"
+           x="48.197475"
+           y="59.56081">Interface Audio</tspan></text>
+    </g>
+    <g
+       id="g1576-8-8"
+       transform="translate(-17.510257,-27.592354)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.38013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.76026, 0.38013;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect111-8-5"
+         width="28.737738"
+         height="12.411257"
+         x="47.192909"
+         y="54.157459" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="49.242374"
+         y="59.56081"
+         id="text167-9-60"><tspan
+           sodipodi:role="line"
+           id="tspan165-5-6"
+           style="stroke-width:0.264583"
+           x="49.242374"
+           y="59.56081">Vers ordinateur</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="49.242374"
+           y="63.52956"
+           id="tspan33903">de bureau</tspan></text>
+    </g>
+    <g
+       id="g1576-8-8-0"
+       transform="translate(23.775569,-24.611856)">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.38013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.760259, 0.38013;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect111-8-5-1"
+         width="33.746735"
+         height="8.6006327"
+         x="47.192909"
+         y="54.157459" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="49.242374"
+         y="59.56081"
+         id="text167-9-60-8"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="49.242374"
+           y="59.56081"
+           id="tspan33903-3">Vers switch réseau</tspan></text>
+    </g>
+    <g
+       id="g1576-8-1"
+       transform="translate(58.913481,20.873139)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.38013;stroke-dasharray:none"
+         id="rect111-8-9"
+         width="13.93242"
+         height="8.6006355"
+         x="46.086777"
+         y="54.070644" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="48.596668"
+         y="59.56081"
+         id="text167-9-6"><tspan
+           sodipodi:role="line"
+           id="tspan165-5-7"
+           style="stroke-width:0.264583"
+           x="48.596668"
+           y="59.56081">Écran</tspan></text>
+    </g>
+    <g
+       id="g1576-8-1-62"
+       transform="translate(56.293487,38.01572)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.38013;stroke-dasharray:none"
+         id="rect111-8-9-4"
+         width="19.172407"
+         height="8.6006355"
+         x="46.086777"
+         y="54.070644" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="48.596668"
+         y="59.56081"
+         id="text167-9-6-5"><tspan
+           sodipodi:role="line"
+           id="tspan165-5-7-9"
+           style="stroke-width:0.264583"
+           x="48.596668"
+           y="59.56081">n x DELs</tspan></text>
+    </g>
+    <g
+       id="g1576-8-1-6"
+       transform="translate(-55.155909,3.7305619)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.38013;stroke-dasharray:none"
+         id="rect111-8-9-9"
+         width="24.251167"
+         height="8.6006355"
+         x="46.086777"
+         y="54.070644" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="48.596668"
+         y="59.56081"
+         id="text167-9-6-7"><tspan
+           sodipodi:role="line"
+           id="tspan165-5-7-7"
+           style="stroke-width:0.264583"
+           x="48.596668"
+           y="59.56081">n x Boutons</tspan></text>
+    </g>
+    <g
+       id="g1576-8-4"
+       transform="translate(110.14078,1.314805)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.38013;stroke-dasharray:0.76026, 0.38013;stroke-dashoffset:0"
+         id="rect111-8-7"
+         width="33.158596"
+         height="12.411252"
+         x="46.086777"
+         y="54.070644" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="49.471531"
+         y="59.56081"
+         id="text167-9-2"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="49.471531"
+           y="59.56081"
+           id="tspan5818">Vers écouteurs / </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="49.471531"
+           y="63.52956"
+           id="tspan5853">haut-parleurs</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="84.172798"
+       y="61.265911"
+       id="text167-5"><tspan
+         sodipodi:role="line"
+         id="tspan165-1"
+         style="stroke-width:0.264583"
+         x="84.172798"
+         y="61.265911">USB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="48.831398"
+       y="49.115437"
+       id="text167-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan165-1-7"
+         style="stroke-width:0.264583"
+         x="48.831398"
+         y="49.115437">USB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="72.291557"
+       y="49.115437"
+       id="text167-5-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan165-1-7-6"
+         style="stroke-width:0.264583"
+         x="72.291557"
+         y="49.115437">Ethernet</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.333425;stroke-dasharray:none;marker-end:url(#Arrow1-5)"
+       d="M 15.182035,62.101524 H 54.357301"
+       id="path1818-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="18.641035"
+       y="61.265911"
+       id="text167-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan165-1-1"
+         style="stroke-width:0.264583"
+         x="18.641035"
+         y="61.265911">n x E. Num. 0-3.3V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="68.453171"
+       y="95.354034"
+       id="text167-5-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan165-1-1-4"
+         style="stroke-width:0.264583"
+         x="68.453171"
+         y="95.354034">n x S. Num. 0-3.3V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="84.75338"
+       y="78.414696"
+       id="text167-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan165-1-2"
+         style="stroke-width:0.264583"
+         x="84.75338"
+         y="78.414696">I2C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="128.73248"
+       y="56.505005"
+       id="text167-5-9"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="128.73248"
+         y="56.505005"
+         id="tspan5849">Audio </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="128.73248"
+         y="60.473755"
+         id="tspan42217">sur jack 1/8</tspan></text>
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.333425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#Arrow1);stop-color:#000000;stop-opacity:1"
+       d="m 70.65204,66.422402 v 12.821699 h 33.83247"
+       id="path11205"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.333425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#Arrow1);stop-color:#000000;stop-opacity:1"
+       d="M 66.216555,66.422403 V 96.443265 L 101.8812,96.386685"
+       id="path27138"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.333425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.666849, 0.333425;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-start:url(#Arrow1);marker-end:url(#Arrow1-1);stop-color:#000000;stop-opacity:1"
+       d="m 44.051521,39.48365 v 10.912246 h 17.189806 v 6.875553"
+       id="path34061"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.333425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.666849, 0.333425;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-start:url(#Arrow1-0);marker-end:url(#Arrow1-1-8);stop-color:#000000"
+       d="M 87.841846,38.657242 V 50.395896 H 70.65204 v 6.875553"
+       id="path34061-5"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g1576-8-1-62-3"
+       transform="translate(-55.155905,38.01572)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.38013;stroke-dasharray:none"
+         id="rect111-8-9-4-3"
+         width="30.444593"
+         height="8.6006355"
+         x="46.086773"
+         y="54.070644" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="48.596668"
+         y="59.56081"
+         id="text167-9-6-5-0"><tspan
+           sodipodi:role="line"
+           id="tspan165-5-7-9-5"
+           style="stroke-width:0.264583"
+           x="48.596668"
+           y="59.56081">USB Powerbank</tspan></text>
+    </g>
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.333425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#Arrow1);stop-color:#000000;stop-opacity:1"
+       d="m 54.25799,96.386682 h 7.208351 V 66.904184"
+       id="path34758"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+       x="53.314285"
+       y="78.414696"
+       id="text167-5-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan165-1-2-2"
+         style="stroke-width:0.264583"
+         x="53.314285"
+         y="78.414696">+5V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;fill:#000000;stroke-width:0.264583"
+       x="48.116146"
+       y="81.354477"
+       id="text167-5-0-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan165-1-2-2-3"
+         style="font-size:1.76389px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="48.116146"
+         y="81.354477">(Utiliser barrel connector</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="48.116146"
+         y="83.559341"
+         id="tspan35677">ou broches 05 et 06 de P9)</tspan></text>
+    <g
+       id="g1576-8-1-1"
+       transform="translate(-16.76518,38.01572)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.380131;stroke-dasharray:none"
+         id="rect111-8-9-7"
+         width="24.936396"
+         height="8.6006355"
+         x="46.086773"
+         y="54.070644" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="48.596668"
+         y="59.56081"
+         id="text167-9-6-6"><tspan
+           sodipodi:role="line"
+           id="tspan165-5-7-70"
+           style="stroke-width:0.264583"
+           x="48.596668"
+           y="59.56081">Interrupteur</tspan></text>
+    </g>
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.333425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#Arrow1);stop-color:#000000;stop-opacity:1"
+       d="m 21.375459,96.386681 h 7.440263"
+       id="path41316"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.733, 0.733;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect41413"
+       width="163.91429"
+       height="62.047222"
+       x="-13.016608"
+       y="42.999786" />
+  </g>
+</svg>
